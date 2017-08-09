@@ -1,0 +1,2 @@
+# GCServer
+GalacticCraft MC pack
